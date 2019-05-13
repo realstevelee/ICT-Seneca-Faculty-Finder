@@ -1,8 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'; // view library, core
+import ReactDOM from 'react-dom'; // 
 import './index.css';
-import App from './App';
+//import Card from './Card';
+import App from './App'
 import * as serviceWorker from './serviceWorker';
+import 'tachyons';
+import { faculty } from './Faculty'
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
@@ -10,3 +13,4 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+ 
