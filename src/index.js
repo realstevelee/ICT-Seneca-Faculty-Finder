@@ -2,7 +2,7 @@ import React from 'react'; // view library, core
 import ReactDOM from 'react-dom'; // 
 import './index.css';
 //import Card from './Card';
-import App from './App'
+import App from './containers/App'
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 import { faculty } from './Faculty'
