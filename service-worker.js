@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ICT-Seneca-Faculty-Finder/precache-manifest.eb2ccb0d678dad60935f5853fd1ebf53.js"
+  "/ICT-Seneca-Faculty-Finder/precache-manifest.41bc1bcb9ace3fd71caa52f7462cebac.js"
 );
 
 self.addEventListener('message', (event) => {
