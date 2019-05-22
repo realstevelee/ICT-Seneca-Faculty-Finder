@@ -5,7 +5,6 @@ import './index.css';
 import App from './containers/App'
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
-import { faculty } from './Faculty'
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
