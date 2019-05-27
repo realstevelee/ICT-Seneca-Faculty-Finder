@@ -73,6 +73,81 @@ export const faculty = [
       id: 15,
       name: 'Md Nour Hossain',
       email: 'md-nour.hossain@senecacollege.ca'
+    },
+    {
+      id: 16,
+      name: 'Scott Apted',
+      email: 'scott.apted@senecacollege.ca'
+    },
+    {
+      id: 17,
+      name: 'Raymond Chan',
+      email: 'raymond.chan@senecacollege.ca'
+    },
+    {
+      id: 18,
+      name: 'Barb Czegel',
+      email: 'barb.czegel@senecacollege.ca'
+    },
+    {
+      id: 19,
+      name: 'Brian Douglas',
+      email: 'brian.douglas@senecacollege.ca'
+    },
+    {
+      id: 20,
+      name: 'Ryan Hu',
+      email: 'peng.hu@senecacollege.ca'
+    },
+    {
+      id: 21,
+      name: 'Lisa Li',
+      email: 'lisa.li2@senecacollege.ca'
+    },
+    {
+      id: 22,
+      name: 'John (Fraser) Mann',
+      email: 'j.mann@senecacollege.ca'
+    },
+    {
+      id: 23,
+      name: 'Ayesha Manzer',
+      email: 'ayesha.manzer@senecacollege.ca'
+    },
+    {
+      id: 24,
+      name: 'Jean Nasser',
+      email: 'jean.nasser@senecacollege.ca'
+    },
+    {
+      id: 25,
+      name: 'Ali Nezhad',
+      email: 'ali.nezhad@senecacollege.ca'
+    },
+    {
+      id: 26,
+      name: 'Allan Randall',
+      email: 'allan.randall@senecacollege.ca'
+    },
+    {
+      id: 27,
+      name: 'Danny Roy',
+      email: 'danny.roy@senecacollege.ca'
+    },
+    {
+      id: 28,
+      name: 'John Samuel',
+      email: 'john.samuel@senecacollege.ca'
+    },
+    {
+      id: 29,
+      name: 'Rajib Verma',
+      email: 'rajib.verma@senecacollege.ca'
+    },
+    {
+      id: 30,
+      name: 'Eric Song',
+      email: 'young.song@senecacollege.ca'
     }
   ];
   
