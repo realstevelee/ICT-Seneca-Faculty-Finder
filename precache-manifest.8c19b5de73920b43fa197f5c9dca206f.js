@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38d251095f3e142618c5acaa7df3355a",
+    "revision": "ac9c0cf61af8fa47321a094dc6895cf2",
     "url": "/ICT-Seneca-Faculty-Finder/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ICT-Seneca-Faculty-Finder/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "a287353a616c503cc586",
+    "revision": "488d96618236c5596b0b",
     "url": "/ICT-Seneca-Faculty-Finder/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ICT-Seneca-Faculty-Finder/static/js/2.590933e2.chunk.js"
   },
   {
-    "revision": "a287353a616c503cc586",
-    "url": "/ICT-Seneca-Faculty-Finder/static/js/main.103ba1de.chunk.js"
+    "revision": "488d96618236c5596b0b",
+    "url": "/ICT-Seneca-Faculty-Finder/static/js/main.782bf0a4.chunk.js"
   },
   {
     "revision": "c37c7ed12e8148a6d490",
